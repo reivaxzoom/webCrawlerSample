@@ -1,1 +1,4 @@
-# webCrawlerSample
+## webCrawlerSample
+
+#run
+gradlew run
