@@ -1,4 +1,3 @@
 ## webCrawlerSample
 
-#run
 gradlew run
